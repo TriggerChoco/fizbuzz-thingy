@@ -1,0 +1,25 @@
+{
+  "name": "fizbuzz-thingy",
+  "version": "1.0.0",
+  "description": "fizbuzz",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TriggerChoco/fizbuzz-thingy.git"
+  },
+  "keywords": [
+    "fizbuzz"
+  ],
+  "author": "nate saumell foxyfan23@gmail.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TriggerChoco/fizbuzz-thingy/issues"
+  },
+  "homepage": "https://github.com/TriggerChoco/fizbuzz-thingy#readme",
+  "dependencies": {
+    "jest": "^29.7.0"
+  }
+}
